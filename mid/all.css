@@ -1,0 +1,30 @@
+/*20171078 백지연*/
+li {display :inline; margin:50px;}
+ul.top {padding:20px; 
+	border:2px solid orange; 
+	border-radius:20px; 
+	background-color:pink;}
+	
+body {margin-top:30px; margin-bottom:100px;background-color:ivory;}
+td img {width:200px; height:250px; margin:5px;}
+.rec ,.menu{margin:auto; width:70%;}
+.page_name{margin:auto; width:30%;}
+
+
+.logbox {text-align:right;}
+.login,.logout,.later {text-decoration:none;
+				border:2px solid orange;
+			 	margin:10px; 
+			 	border-radius:5px;
+			 	background-color: #FAED7D;
+			 	padding:5px;}
+.link {text-decoration:none; color:brown;align:center;}
+			 	
+.detailbox{text-align:center;}
+.reviewbox{margin:auto;width:90%;}
+.review_li{text-align:left;}
+.price{float:clear;}
+
+.list_table {margin:auto; width:50%;}
+
+td.main{text-align:center; color:brown;}
